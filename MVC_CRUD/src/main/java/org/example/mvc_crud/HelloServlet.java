@@ -1,6 +1,7 @@
-package org.example.mvc_crud;
+package com.example.mvccrud;
 
 import java.io.*;
+
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
