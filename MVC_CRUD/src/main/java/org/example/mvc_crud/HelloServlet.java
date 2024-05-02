@@ -1,4 +1,4 @@
-package com.example.mvccrud;
+package org.example.mvc_crud;
 
 import java.io.*;
 
